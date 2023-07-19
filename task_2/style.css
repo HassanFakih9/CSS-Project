@@ -1,0 +1,30 @@
+a{
+    color:white;
+    
+}
+header{
+    background-color: #75b2e0;
+    
+    height: 100px;
+}
+h1{
+    text-align:center;
+    color: white;
+  margin: 0 auto;
+  
+}
+nav{
+  text-align:center;
+  margin: 0 auto;
+
+}
+.mypadding{
+  padding-top: 10px;
+}
+footer{
+  padding-top: 10px;
+  color: white;
+  text-align:center;
+  background-color: #75b2e0;
+  height: 40px;
+}
