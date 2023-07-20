@@ -1,0 +1,44 @@
+.h1style {
+    text-align: center;
+    position: relative;
+
+}
+
+.imgstyle {
+    height: 400px;
+    width: 400px;
+}
+
+.container div {
+    text-align: left;
+
+    margin: auto;
+
+}
+
+.container h2 {
+    text-align: left;
+    margin-left: 15px;
+
+}
+
+.container {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    box-shadow: 20px 20px 20px 10px blue;
+    border: 5px solid blueviolet;
+    border-radius: 50px;
+
+
+}
+
+.footstyle {
+    text-align: center;
+    position: relative;
+    font-size: 12px;
+    line-height: 30px;
+
+
+}
